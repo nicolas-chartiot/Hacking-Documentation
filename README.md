@@ -1,10 +1,8 @@
 # Hacking
 
-##### "Understand computers so well that you can make them do things they were not supposed to"
+#### "Understand computers so well that you can make them do things they were not supposed to"
 
-***
-
-## Table of Contents
+# Table of Contents
 * [Network](#network)
 	* [Address Resolution Protocol (ARP)](#address resolution protocol (arp))
 
