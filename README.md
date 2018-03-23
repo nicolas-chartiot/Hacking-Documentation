@@ -6,7 +6,7 @@
 
 ## Table of Contents
 1. [Network](#network)
-1.1 [Address Resolution Protocol (ARP)](#address resolution protocol (arp))
+	1. [Address Resolution Protocol (ARP)](#address resolution protocol (arp))
 
 ***
 
