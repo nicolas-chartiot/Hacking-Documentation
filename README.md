@@ -4,7 +4,7 @@
 
 # Table of Contents
 * [Network](#network)
-	* [Address Resolution Protocol (ARP)](#address resolution protocol (arp))
+	* [Address Resolution Protocol (ARP)](#address_resolution_protocol_(arp))
 	* [ARP Poisoning](#arp poisoning)
 
 ***
