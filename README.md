@@ -19,6 +19,18 @@
 
 ***
 
+# Basics
+
+## IP Address
+
+Lorem ipsum dolor sit amet
+
+## MAC Address
+
+lorem bla bla bla
+
+------
+
 # Cryptography
 
 ## Encryption
@@ -32,19 +44,13 @@ Lorem ipsum dolor sit amer
 
 This is also a serious shit attack
 
-
-
 ## Man in the Middle
 
 This is a serious shit attack 
 
-
-
 ## IP Forwarding
 
 lorem ipsum dolor sit ameth
-
-
 
 ## Address Resolution Protocol (ARP)
 
@@ -61,8 +67,6 @@ Who has 192.168.1.2? Tell 192.168.1.1
 ~~~bash
 192.168.1.2 is at 00:0a:95:9d:68:16
 ~~~
-
-
 
 ## ARP Spoofing
 
@@ -92,7 +96,13 @@ With that done, you can launch some attacks, such as:
 
 #### How to avoid
 
+You can protect yourself from arp spoofing by doing the following:
 
+* Use a data encoding technique such as [SSL](#ssl)
+* Use Packet Filters
+* Use a static ARP (but not recommended for large networks)
+* Use a good [VPN](#vpn) service
+* Use Anti-ARP tools
 
 ***
 
