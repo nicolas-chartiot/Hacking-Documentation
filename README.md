@@ -3,9 +3,13 @@
 #### "Understand computers so well that you can make them do things they were not supposed to"
 
 # Table of Contents
+* [Basics](#basics)
+	* [IP Address](#ip-address)
+	* [MAC Address](#mac-address)
 * [Cryptography](#cryptography)
 	* [Encryption](#encryption)
 * [Network](#network)
+	* [Man in the Middle](#man-in-the-middle)
 	* [IP Forwarding](#ip-forwarding)
 	* [Address Resolution Protocol (ARP)](#address-resolution-protocol-arp)
 	* [ARP Spoofing](#arp-spoofing)
@@ -19,12 +23,28 @@
 
 ## Encryption
 
+Lorem ipsum dolor sit amer
 
 ***
 # Network
 
+## DoS (Denial of Service)
+
+This is also a serious shit attack
+
+
+
+## Man in the Middle
+
+This is a serious shit attack 
+
+
+
 ## IP Forwarding
-lorem ipsum
+
+lorem ipsum dolor sit ameth
+
+
 
 ## Address Resolution Protocol (ARP)
 
@@ -41,6 +61,8 @@ Who has 192.168.1.2? Tell 192.168.1.1
 ~~~bash
 192.168.1.2 is at 00:0a:95:9d:68:16
 ~~~
+
+
 
 ## ARP Spoofing
 
@@ -63,7 +85,10 @@ Start the attack (you can find the target's ip with [Nmap](#nmap):
 arpspoof -i <interface> -t <target ip> -r <router ip>
 ~~~
 
-You can then see the data packages with [Wireshark](#wireshark).
+With that done, you can launch some attacks, such as:
+
+* [DoS (Denial of Service)](#dos-denial-of-service)
+* [Man in the Middle](#man-in-the-middle)
 
 #### How to avoid
 
@@ -72,3 +97,9 @@ You can then see the data packages with [Wireshark](#wireshark).
 ***
 
 ## This will be another header
+
+You can then see the data packages with [Wireshark](#wireshark).
+
+
+
+
