@@ -3,6 +3,8 @@
 #### "Understand computers so well that you can make them do things they were not supposed to"
 
 # Table of Contents
+* [Cryptography](#cryptography)
+	* [Encryption](#encryption)
 * [Network](#network)
 	* [IP Forwarding](#ip-forwarding)
 	* [Address Resolution Protocol (ARP)](#address-resolution-protocol-arp)
@@ -10,6 +12,13 @@
 * [Tools](#tools)
 	* [Nmap](#nmap)
 	* [Wireshark](#wireshark)
+
+***
+
+#Cryptography
+
+## Encryption
+
 
 ***
 # Network
@@ -58,5 +67,8 @@ You can then see the data packages with [Wireshark](#wireshark).
 
 #### How to avoid
 
+
+
+***
 
 ## This will be another header
